@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Max Kitsch",
+    "email": "max.kitsch@gmail.com"
+  },
+  "name": "brest-redis-limiter",
+  "description": "Request rate limiter using redis storage",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaximTovstashev/brest-redis-limiter.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "express-limiter": "*",
+    "lodash": "*"
+  },
+  "devDependencies": {
+    "express-limiter": "*",
+    "lodash": "*"
+  },
+  "keywords": [
+    "api",
+    "app",
+    "brest",
+    "express",
+    "rest",
+    "restful",
+    "limit", "limiter", "brute-force"
+  ],
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "gitHead": "bc26b93937420ee66c122b95380883cfb12c9192",
+  "bugs": {
+    "url": "https://github.com/MaximTovstashev/brest-redis-limiter/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/MaximTovstashev/brest-redis-limiter"
+}
