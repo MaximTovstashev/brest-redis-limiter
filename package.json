@@ -5,18 +5,16 @@
   },
   "name": "brest-redis-limiter",
   "description": "Request rate limiter using redis storage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/MaximTovstashev/brest-redis-limiter.git"
   },
   "main": "index.js",
   "dependencies": {
-    "express-limiter": "*",
     "lodash": "*"
   },
   "devDependencies": {
-    "express-limiter": "*",
     "lodash": "*"
   },
   "keywords": [
